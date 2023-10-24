@@ -56,7 +56,7 @@
 Структура баг-репорта:
 - ID;
 - Summary;
-- Description$
+- Description;
 - Severity;
 - Priority;
 - Pre-conditions;
